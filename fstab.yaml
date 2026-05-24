@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://drive.google.com/drive/folders/1Ywq2MMdxKPy6I4JACaqUN9TZO-neIF9o
+    url: https://docs.google.com/document/d/1SeMjdSeIqLkFKB5q0N-Di3oGWXkJsh0t2HXD6I1cEP4/edit?tab=t.0
     type: markup
 
